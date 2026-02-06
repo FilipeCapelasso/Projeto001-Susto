@@ -1,4 +1,4 @@
-# System Interface Stress Simulator (Projeto001)
+# System Interface Stress Simulator
 
 Este projeto é uma aplicação experimental desenvolvida em C# para explorar a manipulação
 de componentes de baixo nível do Windows e gerenciamento de threads.
