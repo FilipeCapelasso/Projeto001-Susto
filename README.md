@@ -16,5 +16,5 @@ Gerenciamento de Persistência: Escrita em chaves de Run do Registro do Windows 
 Protocolo de Encerramento Forçado: Demonstração de execução de comandos de sistema via ProcessStartInfo com privilégios de execução.
 Kill-switch de Emergência: Atalho de segurança implementado via monitoramento de estado de teclas (GetKeyState) para restauração imediata dos parâmetros originais do sistema.
 
-⚠️ Disclaimer (Aviso Legal)
+⚠️ (Aviso Legal)
 Este projeto possui fins estritamente educacionais e de demonstração técnica. Ele foi criado para ilustrar como aplicações interagem com o sistema operacional em nível profundo. Não deve ser utilizado de forma maliciosa ou sem consentimento.
